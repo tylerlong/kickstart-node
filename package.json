@@ -4,6 +4,7 @@
   "description": "{{ description }}",
   "license": "{{ license }}",
   "scripts": {
+    "upgrade": "yarn-upgrade-all",
     "test": "node index.js"
   },
   "devDependencies": {
